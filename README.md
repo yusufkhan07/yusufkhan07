@@ -1,7 +1,5 @@
 ### Hi there, I'm Yousuf Khan 👋
 
-## I'm a Husband, Father, and Developer !!
-
 - 🌱 I’m currently learning AWS & DevOps.
 - 👯 I’m looking to collaborate on Nodejs projects.
 - 🥅 2021 Goals: Contribute more to Open Source projects

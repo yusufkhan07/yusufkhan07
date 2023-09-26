@@ -49,6 +49,9 @@
 [linkedin]: https://linkedin.com/in/yusufkhan07
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yusufkhan07)](https://github.com/yusufkhan07)
+
 <!--
 **yusufkhan07/yusufkhan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
